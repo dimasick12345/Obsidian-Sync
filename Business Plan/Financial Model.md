@@ -11,3 +11,5 @@ $$1,000 \cdot 5 \cdot 25(shekel) = 125,000 (shekel) $$
 5 - Lesson/month 
 25 shekel - Gross margin 
 125,000 shekel  - Gross margin/month
+
+If we only have 1000 active users that consume  5 lesson per month.
