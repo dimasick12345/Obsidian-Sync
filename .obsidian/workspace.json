@@ -11,14 +11,29 @@
             "id": "5e03280d2e6a86a2",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "root.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Business Plan/Financial Model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "f67c43d58d2c357c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a344e923545382d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Business Plan/Financial Model.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -72,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "e79313a5287a9a5d",
@@ -88,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "root.canvas",
+                "file": "Business Plan/Financial Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "root.canvas",
+                "file": "Business Plan/Financial Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "root.canvas"
+                "file": "Business Plan/Financial Model.md"
               }
             }
           }
@@ -151,8 +166,11 @@
   },
   "active": "5e03280d2e6a86a2",
   "lastOpenFiles": [
-    "Без названия/Bla bla bla.md",
     "root.canvas",
+    "Business Plan/Financial Model.md",
+    "Business Plan/Без названия.canvas",
+    "Business Plan",
+    "Без названия/Bla bla bla.md",
     "Без названия"
   ]
 }
