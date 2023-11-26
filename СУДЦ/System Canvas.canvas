@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"7efd58bbcf6125fa","x":-328,"y":-6,"width":400,"height":400,"type":"file","file":"СУДЦ/Что такое - СУДЦ.md"},
+		{"id":"edbd8b166f74bc0b","x":140,"y":-6,"width":250,"height":60,"type":"text","text":"Клиент\n"},
+		{"id":"9a669804e87cc848","x":560,"y":-6,"width":250,"height":60,"type":"text","text":"Гаджет"},
+		{"id":"1569ba5bfdd52ccd","x":960,"y":-6,"width":250,"height":60,"type":"text","text":"Система"}
+	],
+	"edges":[
+		{"id":"c7adef72b956400d","fromNode":"edbd8b166f74bc0b","fromSide":"right","toNode":"9a669804e87cc848","toSide":"left"},
+		{"id":"cdcd986bb10df308","fromNode":"9a669804e87cc848","fromSide":"right","toNode":"1569ba5bfdd52ccd","toSide":"left"},
+		{"id":"6a3f0054b33f3e18","fromNode":"1569ba5bfdd52ccd","fromSide":"left","toNode":"9a669804e87cc848","toSide":"right"},
+		{"id":"a0fdb00d78243055","fromNode":"9a669804e87cc848","fromSide":"left","toNode":"edbd8b166f74bc0b","toSide":"right"}
+	]
+}
