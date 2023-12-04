@@ -15,9 +15,9 @@
               "state": {
                 "file": "СУДЦ/System Canvas.canvas",
                 "viewState": {
-                  "x": 1204.472502596588,
-                  "y": 810.172775087882,
-                  "zoom": -1.6389529570178365
+                  "x": 1350.6273237380262,
+                  "y": 803.2096662824988,
+                  "zoom": -1.4820984446740362
                 }
               }
             }
@@ -149,7 +149,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "932e48135b203881",
+  "active": "161392b38b4efa42",
   "lastOpenFiles": [
     "root.canvas",
     "Business Plan/Financial Model.md",
