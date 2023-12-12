@@ -15,9 +15,9 @@
               "state": {
                 "file": "СУДЦ/System Canvas.canvas",
                 "viewState": {
-                  "x": 1350.6273237380262,
-                  "y": 803.2096662824988,
-                  "zoom": -1.4820984446740362
+                  "x": 1143.0121370730299,
+                  "y": 2330.4075298732873,
+                  "zoom": -0.4336165907476249
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "СУДЦ/System Canvas.canvas",
+                "file": "СУДЦ/Название системы на английском.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "СУДЦ/System Canvas.canvas",
+                "file": "СУДЦ/Название системы на английском.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "СУДЦ/System Canvas.canvas"
+                "file": "СУДЦ/Название системы на английском.md"
               }
             }
           }
@@ -151,10 +151,11 @@
   },
   "active": "161392b38b4efa42",
   "lastOpenFiles": [
+    "СУДЦ/System Canvas.canvas",
+    "СУДЦ/Название системы на английском.md",
+    "СУДЦ/Что такое - СУДЦ.md",
     "root.canvas",
     "Business Plan/Financial Model.md",
-    "СУДЦ/System Canvas.canvas",
-    "СУДЦ/Что такое - СУДЦ.md",
     "СУДЦ",
     "Business Plan/Без названия.canvas",
     "Business Plan",
