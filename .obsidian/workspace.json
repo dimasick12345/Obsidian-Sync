@@ -15,9 +15,9 @@
               "state": {
                 "file": "СУДЦ/System Canvas.canvas",
                 "viewState": {
-                  "x": 1143.0121370730299,
-                  "y": 2330.4075298732873,
-                  "zoom": -0.4336165907476249
+                  "x": 1441.9813194752655,
+                  "y": 4373.788506467694,
+                  "zoom": -0.6666666666666665
                 }
               }
             }
@@ -149,11 +149,11 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "161392b38b4efa42",
+  "active": "932e48135b203881",
   "lastOpenFiles": [
-    "СУДЦ/System Canvas.canvas",
-    "СУДЦ/Название системы на английском.md",
     "СУДЦ/Что такое - СУДЦ.md",
+    "СУДЦ/Название системы на английском.md",
+    "СУДЦ/System Canvas.canvas",
     "root.canvas",
     "Business Plan/Financial Model.md",
     "СУДЦ",
