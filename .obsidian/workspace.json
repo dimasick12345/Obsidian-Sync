@@ -15,10 +15,20 @@
               "state": {
                 "file": "СУДЦ/System Canvas.canvas",
                 "viewState": {
-                  "x": 1441.9813194752655,
-                  "y": 4373.788506467694,
-                  "zoom": -0.6666666666666665
+                  "x": 1597.6570766242467,
+                  "y": 5941.593634870356,
+                  "zoom": -0.2500000000000003
                 }
+              }
+            }
+          },
+          {
+            "id": "e5afcd8f72ab0a09",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
               }
             }
           }
@@ -154,6 +164,7 @@
     "СУДЦ/Что такое - СУДЦ.md",
     "СУДЦ/Название системы на английском.md",
     "СУДЦ/System Canvas.canvas",
+    "СУДЦ/Сферы деятельности.canvas",
     "root.canvas",
     "Business Plan/Financial Model.md",
     "СУДЦ",
