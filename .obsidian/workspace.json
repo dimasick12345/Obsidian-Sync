@@ -11,11 +11,14 @@
             "id": "5e03280d2e6a86a2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Business Plan/Financial Model.md",
-                "mode": "source",
-                "source": false
+                "file": "root.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Business Plan/Financial Model.md",
+                "file": "root.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Business Plan/Financial Model.md",
+                "file": "root.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Business Plan/Financial Model.md"
+                "file": "root.canvas"
               }
             }
           }
@@ -148,9 +151,10 @@
   },
   "active": "5e03280d2e6a86a2",
   "lastOpenFiles": [
+    "Business Plan/Site workflow.canvas",
     "root.canvas",
     "Business Plan/Financial Model.md",
-    "Business Plan/Без названия.canvas",
+    "Business Plan/Без названия.md",
     "Business Plan",
     "Без названия/Bla bla bla.md",
     "Без названия"
