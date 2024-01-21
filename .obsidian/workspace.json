@@ -15,20 +15,10 @@
               "state": {
                 "file": "СУДЦ/System Canvas.canvas",
                 "viewState": {
-                  "x": 1597.6570766242467,
-                  "y": 5941.593634870356,
-                  "zoom": -0.2500000000000003
+                  "x": 1487.4537617933615,
+                  "y": 6660.892886461421,
+                  "zoom": -0.17086949326719464
                 }
-              }
-            }
-          },
-          {
-            "id": "e5afcd8f72ab0a09",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
               }
             }
           }
@@ -161,9 +151,9 @@
   },
   "active": "932e48135b203881",
   "lastOpenFiles": [
+    "СУДЦ/System Canvas.canvas",
     "СУДЦ/Что такое - СУДЦ.md",
     "СУДЦ/Название системы на английском.md",
-    "СУДЦ/System Canvas.canvas",
     "СУДЦ/Сферы деятельности.canvas",
     "root.canvas",
     "Business Plan/Financial Model.md",
