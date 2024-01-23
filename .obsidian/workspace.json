@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "СУДЦ/System Canvas.canvas",
+                "file": "СУДЦ/Концепты/Концепт 6.canvas",
                 "viewState": {
-                  "x": 1487.4537617933615,
-                  "y": 6660.892886461421,
-                  "zoom": -0.17086949326719464
+                  "x": 118.24598544254422,
+                  "y": 1623.095876409134,
+                  "zoom": -0.4166666666666666
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "СУДЦ/System Canvas.canvas",
+                "file": "СУДЦ/Концепты/Концепт 6.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "СУДЦ/System Canvas.canvas",
+                "file": "СУДЦ/Концепты/Концепт 6.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "СУДЦ/System Canvas.canvas"
+                "file": "СУДЦ/Концепты/Концепт 6.canvas"
               }
             }
           }
@@ -151,7 +151,10 @@
   },
   "active": "932e48135b203881",
   "lastOpenFiles": [
+    "Pasted image 20240123225721.png",
     "СУДЦ/System Canvas.canvas",
+    "СУДЦ/Концепты/Концепт 6.canvas",
+    "СУДЦ/Концепты",
     "СУДЦ/Что такое - СУДЦ.md",
     "СУДЦ/Название системы на английском.md",
     "СУДЦ/Сферы деятельности.canvas",
