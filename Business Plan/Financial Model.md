@@ -1,4 +1,4 @@
-Income/*lesson*   |  Outcome/*lesson*
+ Income/*lesson*   |  Outcome/*lesson*
 -----------------------------|--------------
 Usage = 120 shekel(2 shekel/ minute) |Avg Teacher's fee = 100 shekel (1.6/minute)
 Activation fee = 5 shekel |

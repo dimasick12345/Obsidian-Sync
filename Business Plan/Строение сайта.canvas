@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"5dbc33efbff810ad","x":-140,"y":-140,"width":250,"height":60,"type":"text","text":"Сайт"},
+		{"id":"2e2df50efd7b40cb","x":-292,"y":13,"width":250,"height":60,"type":"text","text":"API(Aspnet)"},
+		{"id":"7cd6721ddb8ea82d","x":-426,"y":147,"width":250,"height":60,"type":"text","text":"База Данных\n"},
+		{"id":"b57c8672e16e404a","x":83,"y":20,"width":250,"height":60,"type":"text","text":"Front end(javascript,css,html)-Balzor"}
+	],
+	"edges":[
+		{"id":"461d567c693b8ea5","fromNode":"5dbc33efbff810ad","fromSide":"bottom","toNode":"2e2df50efd7b40cb","toSide":"top"},
+		{"id":"f49bfe5ceccae51f","fromNode":"2e2df50efd7b40cb","fromSide":"bottom","toNode":"7cd6721ddb8ea82d","toSide":"top","fromEnd":"arrow"},
+		{"id":"d053744fab23e273","fromNode":"5dbc33efbff810ad","fromSide":"bottom","toNode":"b57c8672e16e404a","toSide":"top"},
+		{"id":"fb29e9dfd85ccbe4","fromNode":"2e2df50efd7b40cb","fromSide":"bottom","toNode":"b57c8672e16e404a","toSide":"bottom"}
+	]
+}

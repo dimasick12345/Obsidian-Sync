@@ -21,8 +21,24 @@
                 }
               }
             }
+          },
+          {
+            "id": "10634bd21c195fd8",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Business Plan/Строение сайта.canvas",
+                "viewState": {
+                  "x": -7.665740966796875,
+                  "y": 87.00003051757812,
+                  "zoom": 0
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "СУДЦ/Концепты/Концепт 6.canvas",
+                "file": "Business Plan/Строение сайта.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "СУДЦ/Концепты/Концепт 6.canvas",
+                "file": "Business Plan/Строение сайта.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "СУДЦ/Концепты/Концепт 6.canvas"
+                "file": "Business Plan/Строение сайта.canvas"
               }
             }
           }
@@ -149,19 +165,20 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "932e48135b203881",
+  "active": "10634bd21c195fd8",
   "lastOpenFiles": [
-    "Pasted image 20240123225721.png",
+    "Business Plan/Site workflow.canvas",
+    "Business Plan/Строение сайта.canvas",
+    "Business Plan/Financial Model.md",
     "СУДЦ/System Canvas.canvas",
     "СУДЦ/Концепты/Концепт 6.canvas",
-    "СУДЦ/Концепты",
+    "root.canvas",
+    "Pasted image 20240123225721.png",
     "СУДЦ/Что такое - СУДЦ.md",
+    "СУДЦ/Концепты",
     "СУДЦ/Название системы на английском.md",
     "СУДЦ/Сферы деятельности.canvas",
-    "root.canvas",
-    "Business Plan/Financial Model.md",
     "СУДЦ",
-    "Business Plan/Без названия.canvas",
     "Business Plan",
     "Без названия/Bla bla bla.md"
   ]
