@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "СУДЦ/Концепты/Концепт 7.canvas",
+                "file": "Business Plan/Строение сайта.canvas",
                 "viewState": {
-                  "x": 2971.835017708657,
-                  "y": 627.4670729232002,
-                  "zoom": -3.166666666666667
+                  "x": -46.5,
+                  "y": 33.5,
+                  "zoom": 0
                 }
               }
             }
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "СУДЦ/Концепты/Концепт 7.canvas",
+                "file": "Business Plan/Строение сайта.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "СУДЦ/Концепты/Концепт 7.canvas",
+                "file": "Business Plan/Строение сайта.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "СУДЦ/Концепты/Концепт 7.canvas"
+                "file": "Business Plan/Строение сайта.canvas"
               }
             }
           }
@@ -259,10 +259,10 @@
   },
   "active": "7fef66ded03ecf1e",
   "lastOpenFiles": [
+    "СУДЦ/Концепты/Концепт 7.canvas",
     "Business Plan/Строение сайта.canvas",
     "Business Plan/Site workflow.canvas",
     "По отношению ко времени.md",
-    "СУДЦ/Концепты/Концепт 7.canvas",
     "Общая папка несортированных идей.md",
     "Формирование задачи в программе тайм-менеджменте.md",
     "Что такое идея.md",
