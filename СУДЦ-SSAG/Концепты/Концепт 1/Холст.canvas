@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"bf327eab647d5d4a","type":"text","text":"концепт 1\n","x":-115,"y":-127,"width":250,"height":60},
+		{"id":"0e4202ab34f6dcf8","type":"text","text":"Клиент\n","x":-535,"y":67,"width":250,"height":60},
+		{"id":"4c8ca91d68784bc3","type":"text","text":"Гаджет","x":-115,"y":67,"width":250,"height":60},
+		{"id":"259041ca8abb637b","type":"text","text":"Система","x":285,"y":67,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"345fcd28b89bc05f","fromNode":"0e4202ab34f6dcf8","fromSide":"right","toNode":"4c8ca91d68784bc3","toSide":"left"},
+		{"id":"759ce8a63e3db66f","fromNode":"4c8ca91d68784bc3","fromSide":"left","toNode":"0e4202ab34f6dcf8","toSide":"right"},
+		{"id":"636da773ef3534dd","fromNode":"4c8ca91d68784bc3","fromSide":"right","toNode":"259041ca8abb637b","toSide":"left"},
+		{"id":"ba4afe53402fe061","fromNode":"259041ca8abb637b","fromSide":"left","toNode":"4c8ca91d68784bc3","toSide":"right"}
+	]
+}

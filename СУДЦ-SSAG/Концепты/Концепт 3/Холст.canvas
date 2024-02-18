@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"da18f531507f2f1d","type":"text","text":"Concept 3, работает с гаджетами ","x":-275,"y":-386,"width":250,"height":60},
+		{"id":"3ad21825019abeac","type":"text","text":"Папка со всеми идеями","x":-275,"y":-74,"width":250,"height":60},
+		{"id":"92723de28157a47f","type":"text","text":"Здоровье","x":-695,"y":135,"width":250,"height":60},
+		{"id":"1ae094aeb7359e40","type":"text","text":"Заработок\n","x":-275,"y":135,"width":250,"height":60},
+		{"id":"7a6c942235430ac3","type":"text","text":"Хобби\n","x":105,"y":135,"width":250,"height":60},
+		{"id":"fcb08a6198ec8623","type":"text","text":"Обучение","x":445,"y":135,"width":250,"height":60},
+		{"id":"f9ce369cd3ec12bc","type":"text","text":"Спорт\n","x":-695,"y":326,"width":250,"height":60},
+		{"id":"14a6937beeeefc0e","type":"text","text":"Инженерия","x":-275,"y":326,"width":250,"height":60},
+		{"id":"3c9c88b8a478f26f","type":"text","text":"Путешествия","x":105,"y":326,"width":250,"height":60},
+		{"id":"cb3becf8a89a9c72","type":"text","text":"Гайды на ютубе","x":445,"y":326,"width":250,"height":60},
+		{"id":"ace72020af621b75","type":"text","text":"переодическая резервация","x":195,"y":-74,"width":250,"height":60},
+		{"id":"3606512c8c5b819f","type":"text","text":"Основной носитель","x":-275,"y":-194,"width":250,"height":60},
+		{"id":"65bc7fd159a92724","type":"text","text":"Резервирующий носитель","x":195,"y":-194,"width":250,"height":60},
+		{"id":"cd1a112c7c9a8bca","type":"text","text":"можно быстро проводить статистику, если нужно","x":-635,"y":-74,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"56515acfed3f3080","fromNode":"3ad21825019abeac","fromSide":"bottom","toNode":"1ae094aeb7359e40","toSide":"top"},
+		{"id":"b9b13fce568c58bd","fromNode":"3ad21825019abeac","fromSide":"bottom","toNode":"92723de28157a47f","toSide":"top"},
+		{"id":"dec2ac0d066c86ed","fromNode":"3ad21825019abeac","fromSide":"bottom","toNode":"7a6c942235430ac3","toSide":"top"},
+		{"id":"f4d5f89b55101328","fromNode":"3ad21825019abeac","fromSide":"bottom","toNode":"fcb08a6198ec8623","toSide":"top"},
+		{"id":"8b5d29a6be085b33","fromNode":"3ad21825019abeac","fromSide":"right","toNode":"ace72020af621b75","toSide":"left"},
+		{"id":"574556224551d751","fromNode":"3ad21825019abeac","fromSide":"top","toNode":"3606512c8c5b819f","toSide":"bottom"},
+		{"id":"17901e4c7035531a","fromNode":"3ad21825019abeac","fromSide":"left","toNode":"cd1a112c7c9a8bca","toSide":"right"},
+		{"id":"e2ce300aa54f609c","fromNode":"ace72020af621b75","fromSide":"left","toNode":"3ad21825019abeac","toSide":"right"},
+		{"id":"5e4ec51094e07b44","fromNode":"3606512c8c5b819f","fromSide":"bottom","toNode":"3ad21825019abeac","toSide":"top"},
+		{"id":"7d1ddd0161155308","fromNode":"92723de28157a47f","fromSide":"bottom","toNode":"f9ce369cd3ec12bc","toSide":"top"},
+		{"id":"6f487011167f0011","fromNode":"1ae094aeb7359e40","fromSide":"bottom","toNode":"14a6937beeeefc0e","toSide":"top"},
+		{"id":"ecfd8de4557045b6","fromNode":"7a6c942235430ac3","fromSide":"bottom","toNode":"3c9c88b8a478f26f","toSide":"top"},
+		{"id":"3be63d80bf07e79c","fromNode":"fcb08a6198ec8623","fromSide":"bottom","toNode":"cb3becf8a89a9c72","toSide":"top"},
+		{"id":"de483096b5a99e4d","fromNode":"ace72020af621b75","fromSide":"top","toNode":"65bc7fd159a92724","toSide":"bottom"},
+		{"id":"8e46e78b8a004552","fromNode":"65bc7fd159a92724","fromSide":"bottom","toNode":"ace72020af621b75","toSide":"top"}
+	]
+}

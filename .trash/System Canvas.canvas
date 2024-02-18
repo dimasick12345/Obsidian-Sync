@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"526d42c9bbd7d539","type":"text","text":"Concept 5","x":1316,"y":5440,"width":250,"height":60},
+		{"id":"ec501846313218fc","type":"text","text":"Система Упрощения Достижения Целей","x":1316,"y":5742,"width":250,"height":60},
+		{"id":"14a19c0cd63bd151","type":"text","text":"Система Хранения Идей","x":1316,"y":5922,"width":250,"height":60},
+		{"id":"e2045df379821bd4","type":"text","text":"Тайм-Менеджемнт Система","x":1740,"y":5922,"width":250,"height":60},
+		{"id":"725f0815c9e4b5cc","type":"text","text":"Здесь хранятся все идеи","x":760,"y":5842,"width":280,"height":110},
+		{"id":"6ee94af39fba1ec9","type":"text","text":"Система Безопасности","x":1080,"y":5642,"width":250,"height":60},
+		{"id":"873dce7f2d020e0a","type":"text","text":"На всякий случай, а то мало-ли","x":830,"y":5742,"width":250,"height":60},
+		{"id":"1fe7504460d595e5","type":"text","text":"Где/Когда/Чем - Заниматься","x":2080,"y":5802,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"8214761608dbee1b","fromNode":"ec501846313218fc","fromSide":"bottom","toNode":"14a19c0cd63bd151","toSide":"top"},
+		{"id":"b844af1d458518d9","fromNode":"ec501846313218fc","fromSide":"bottom","toNode":"e2045df379821bd4","toSide":"top"},
+		{"id":"06db6a9b9d3727cd","fromNode":"e2045df379821bd4","fromSide":"right","toNode":"1fe7504460d595e5","toSide":"bottom"},
+		{"id":"fbe0993cffea18ef","fromNode":"14a19c0cd63bd151","fromSide":"left","toNode":"725f0815c9e4b5cc","toSide":"bottom"},
+		{"id":"432087cb7cb1754e","fromNode":"ec501846313218fc","fromSide":"bottom","toNode":"6ee94af39fba1ec9","toSide":"bottom"},
+		{"id":"26a4e1712dae9d61","fromNode":"6ee94af39fba1ec9","fromSide":"left","toNode":"873dce7f2d020e0a","toSide":"top"}
+	]
+}

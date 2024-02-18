@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"2f6a0585413a5bb8","type":"text","text":"Concept 5","x":-229,"y":-271,"width":250,"height":60},
+		{"id":"8447962a3e60b5e0","type":"text","text":"Система Упрощения Достижения Целей","x":-229,"y":31,"width":250,"height":60},
+		{"id":"2ce770e80ffd0705","type":"text","text":"Система Хранения Идей","x":-229,"y":211,"width":250,"height":60},
+		{"id":"db708c86ff945a09","type":"text","text":"Тайм-Менеджемнт Система","x":195,"y":211,"width":250,"height":60},
+		{"id":"9079a630ee3d6889","type":"text","text":"Здесь хранятся все идеи","x":-785,"y":131,"width":280,"height":110},
+		{"id":"748cb5b787637601","type":"text","text":"Система Безопасности","x":-465,"y":-69,"width":250,"height":60},
+		{"id":"7ed2a50bc78f8e5c","type":"text","text":"На всякий случай, а то мало-ли","x":-715,"y":31,"width":250,"height":60},
+		{"id":"906f32b1e9d01d0f","type":"text","text":"Где/Когда/Чем - Заниматься","x":535,"y":91,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"dbfbd3465f3b1439","fromNode":"8447962a3e60b5e0","fromSide":"bottom","toNode":"2ce770e80ffd0705","toSide":"top"},
+		{"id":"d6cb76d22d42ed29","fromNode":"8447962a3e60b5e0","fromSide":"bottom","toNode":"db708c86ff945a09","toSide":"top"},
+		{"id":"3b5626de39ecbec0","fromNode":"8447962a3e60b5e0","fromSide":"bottom","toNode":"748cb5b787637601","toSide":"bottom"},
+		{"id":"af9bd58ac9e3040b","fromNode":"2ce770e80ffd0705","fromSide":"left","toNode":"9079a630ee3d6889","toSide":"bottom"},
+		{"id":"014d228eac337db6","fromNode":"db708c86ff945a09","fromSide":"right","toNode":"906f32b1e9d01d0f","toSide":"bottom"},
+		{"id":"e0810321ab7c1e03","fromNode":"748cb5b787637601","fromSide":"left","toNode":"7ed2a50bc78f8e5c","toSide":"top"}
+	]
+}
