@@ -1,6 +1,12 @@
 {
 	"nodes":[
-		{"id":"8135210a9c683596","x":-161,"y":-106,"width":400,"height":400,"type":"file","file":"СУДЦ-SSAG/Концепты/Концепт 8/Данные/Алгоритм действий.md"}
+		{"id":"8135210a9c683596","type":"file","file":"СУДЦ-SSAG/Концепты/Концепт 8/Данные/Алгоритм действий.md","x":-161,"y":-106,"width":400,"height":146},
+		{"id":"977585a5d49b6570","x":-1011,"y":866,"width":250,"height":69,"type":"text","text":"УЖЕ ДОЛЖНО БЫТЬ"},
+		{"id":"2c77f92ef0c67368","x":-411,"y":820,"width":250,"height":160,"type":"text","text":"Создайте папку на гаджете, для несортированных идей. Например с названием \"Unsorted\""},
+		{"id":"4b6b3fa5be3e15b8","x":-411,"y":600,"width":250,"height":127,"type":"text","text":"Создайте как можно больше текстовых документов, в названии пишите идею"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"a9f6a29031c89a67","fromNode":"977585a5d49b6570","fromSide":"right","toNode":"2c77f92ef0c67368","toSide":"left"},
+		{"id":"2aad5e5fdf86f5cb","fromNode":"2c77f92ef0c67368","fromSide":"top","toNode":"4b6b3fa5be3e15b8","toSide":"bottom"}
+	]
 }
