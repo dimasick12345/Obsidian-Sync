@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"10a619a4145251e3","type":"file","file":"СУДЦ-SSAG/Актуальные/Концепт 10/Данные/Начало алгоритма.md","x":-380,"y":143,"width":321,"height":78},
+		{"id":"00113c53f05ff882","type":"file","file":"СУДЦ-SSAG/Актуальные/Концепт 10/Данные/1) Появление новой идеи.md","x":160,"y":122,"width":400,"height":121},
+		{"id":"62ff9887cff3c37f","type":"file","file":"СУДЦ-SSAG/Актуальные/Концепт 10/Данные/Идея на гаджете это.md","x":160,"y":440,"width":400,"height":160},
+		{"id":"7006cedd0cef076a","type":"file","file":"СУДЦ-SSAG/Актуальные/Концепт 10/Данные/Краткий алгоритм.md","x":-419,"y":-520,"width":400,"height":400},
+		{"id":"1ecd5e56286d9231","type":"file","file":"СУДЦ-SSAG/Актуальные/Концепт 10/Данные/3) Назначение данных.md","x":1980,"y":103,"width":400,"height":158},
+		{"id":"bdf7557df294d120","type":"file","file":"СУДЦ-SSAG/Актуальные/Концепт 10/Данные/4) Подробное текстовое описание.md","x":2640,"y":-18,"width":400,"height":400},
+		{"id":"4f250b961c4aa034","type":"file","file":"СУДЦ-SSAG/Актуальные/Концепт 10/Данные/Сложность.md","x":3200,"y":-660,"width":400,"height":420},
+		{"id":"50cb5fab429fc3dd","type":"file","file":"СУДЦ-SSAG/Актуальные/Концепт 10/Данные/Приоритет.md","x":3200,"y":-18,"width":400,"height":400},
+		{"id":"66faebffb18b18fd","type":"file","file":"СУДЦ-SSAG/Актуальные/Концепт 10/Данные/Теория вероятностей к выполнению.md","x":3760,"y":-650,"width":400,"height":400},
+		{"id":"2c059ce300d6671b","type":"file","file":"СУДЦ-SSAG/Актуальные/Концепт 10/Данные/Временные данные.md","x":3200,"y":483,"width":400,"height":177},
+		{"id":"73c3c2ae0b315cc7","type":"file","file":"СУДЦ-SSAG/Актуальные/Концепт 10/Данные/При субъективном восприятии.md","x":3760,"y":-18,"width":400,"height":400},
+		{"id":"759b129552faea83","type":"file","file":"СУДЦ-SSAG/Актуальные/Концепт 10/Данные/Формирование задачи в программе тайм-менеджмент.md","x":2640,"y":840,"width":400,"height":360},
+		{"id":"8b498564dda40734","type":"file","file":"СУДЦ-SSAG/Актуальные/Концепт 10/Данные/2) Попадает в папку с несортированными идеями.md","x":1280,"y":103,"width":400,"height":158},
+		{"id":"86ffd6d97c71a96a","x":1660,"y":-552,"width":400,"height":332,"type":"file","file":"СУДЦ-SSAG/Актуальные/Концепт 10/Данные/Структура хранилища.md"}
+	],
+	"edges":[
+		{"id":"fc63900b123612ea","fromNode":"00113c53f05ff882","fromSide":"bottom","toNode":"62ff9887cff3c37f","toSide":"top"},
+		{"id":"c5b15685bb39fe90","fromNode":"62ff9887cff3c37f","fromSide":"top","toNode":"00113c53f05ff882","toSide":"bottom"},
+		{"id":"003b20a2efc7a04b","fromNode":"10a619a4145251e3","fromSide":"right","toNode":"00113c53f05ff882","toSide":"left"},
+		{"id":"3beb51d5c314b1d1","fromNode":"8b498564dda40734","fromSide":"right","toNode":"1ecd5e56286d9231","toSide":"left"},
+		{"id":"1ec738304e769f00","fromNode":"1ecd5e56286d9231","fromSide":"right","toNode":"bdf7557df294d120","toSide":"left"},
+		{"id":"26b07d70d5957617","fromNode":"bdf7557df294d120","fromSide":"right","toNode":"50cb5fab429fc3dd","toSide":"left"},
+		{"id":"5317ad6abe8ff928","fromNode":"bdf7557df294d120","fromSide":"right","toNode":"4f250b961c4aa034","toSide":"left"},
+		{"id":"bf30a0f9ffe26c04","fromNode":"4f250b961c4aa034","fromSide":"right","toNode":"66faebffb18b18fd","toSide":"left"},
+		{"id":"a02f1e988a5006a5","fromNode":"bdf7557df294d120","fromSide":"right","toNode":"2c059ce300d6671b","toSide":"left"},
+		{"id":"579d62a59a9f2850","fromNode":"50cb5fab429fc3dd","fromSide":"right","toNode":"73c3c2ae0b315cc7","toSide":"left"},
+		{"id":"242356d4bc66ea69","fromNode":"bdf7557df294d120","fromSide":"bottom","toNode":"759b129552faea83","toSide":"top"},
+		{"id":"8975630d24ac3ab6","fromNode":"10a619a4145251e3","fromSide":"top","toNode":"7006cedd0cef076a","toSide":"bottom"},
+		{"id":"d3f90838cbd000be","fromNode":"00113c53f05ff882","fromSide":"right","toNode":"8b498564dda40734","toSide":"left"}
+	]
+}
